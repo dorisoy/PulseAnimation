@@ -3,7 +3,7 @@ Pulse animation for xamarin forms based on SkiaSharp
 
 <html>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dorisoy/PulseAnimation/blob/master/Screenshot.jpg" height="600">
+  <img src="https://github.com/dorisoy/PulseAnimation/blob/master/Screenshot.jpg?raw=true" height="600">
 </p>
 </html>
 
