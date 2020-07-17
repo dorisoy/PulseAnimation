@@ -1,11 +1,11 @@
-# SkiaPulse-Xamarin.Forms
+# PulseAnimation for Xamarin.Forms
 Pulse animation for xamarin forms based on SkiaSharp
 
 ------------
 
 <html>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms/master/appVideo.gif" height="600">
+  <img src="https://raw.githubusercontent.com/dorisoy/PulseAnimation/master/appVideo.gif" height="600">
 </p>
 </html>
 
@@ -13,7 +13,7 @@ Pulse animation for xamarin forms based on SkiaSharp
 
 <html>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms/master/skiapulse_screenshot.png" height="600">
+  <img src="https://raw.githubusercontent.com/dorisoy/PulseAnimation/master/skiapulse_screenshot.png" height="600">
 </p>
 </html>
 
@@ -27,11 +27,10 @@ Pulse animation for xamarin forms based on SkiaSharp
 # Quickstart 
 ##### Xaml
 ```xml
-     <SkiaPulse:Pulse AutoStart="true" 
+     <PulseAnimation:Pulse AutoStart="true" 
                       PulseColor="#8e44ad" 
                       Margin="50" 
-                      Speed="10" 
-                      Source="SkiaPulse.Images.wifi_icon.png"  />
+                      Speed="10"  />
 ```
 
 Use an image resource as an Embedded Resource
