@@ -27,11 +27,10 @@ Pulse animation for xamarin forms based on SkiaSharp
 # Quickstart 
 ##### Xaml
 ```xml
-     <SkiaPulse:Pulse AutoStart="true" 
+     <PulseAnimation:Pulse AutoStart="true" 
                       PulseColor="#8e44ad" 
                       Margin="50" 
-                      Speed="10" 
-                      Source="SkiaPulse.Images.wifi_icon.png"  />
+                      Speed="10"  />
 ```
 
 Use an image resource as an Embedded Resource
