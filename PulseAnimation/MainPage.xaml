@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:PulseAnimation" 
+             x:Class="PulseAnimation.MainPage"
+             xmlns:PulseAnimation="clr-namespace:PulseAnimation"
+             BackgroundColor="#2c3e50"
+             >
+        <Grid>
+       <PulseAnimation:Pulse AutoStart="true" PulseColor="#8e44ad" Margin="50" Speed="10"   />
+        </Grid>
+</ContentPage>
